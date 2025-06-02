@@ -148,6 +148,7 @@ namespace cyberbot {
                 break;
             }
         }
+        pause(500)
     }
 
     function botDisable(): void {
